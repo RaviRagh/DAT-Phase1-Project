@@ -38,7 +38,7 @@ Using Matplotlib, I created some simple yet elegant bar graphs to visualise the 
 
 ### Conclusions
 #### Key Takeaways
-1. The top 10 genres based on average IMDb viewer ratings do not necessarily reflect what is normally seen at the box office. That being said, they are all excellent catgories for online video streaming.
+1. The top 10 genres based on average IMDb viewer ratings do not necessarily reflect what is normally seen at the box office. That being said, they are all excellent categories for online video streaming.
 2. The most profitable genres are what one would expect from popular culture.
 3. Video streaming revenues show a healthy upward trend.
 #### Actionable Insights
